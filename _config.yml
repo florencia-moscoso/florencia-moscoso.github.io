@@ -1,0 +1,17 @@
+title: Florencia Viviana Moscoso
+description: "Investigadora y consultora en turismo"
+author: "Nicanor Perera"
+author_description: "Experimentado desarrollador web."
+exclude: [README.md, LICENSE.md, Gemfile, Gemfile.lock]
+plugins: ["jekyll-feed"]
+
+url: https://florencia-moscoso.github.io
+
+permalink: /:categories/:title/
+
+email: moscoso.florencia@gmail.com
+twitter_username: flor_vim
+linkedin_username: florencia-moscoso
+research_gate_username: Florencia_Viviana_Moscoso
+academia_edu_username: FlorenciaMoscoso
+skype_username: flor-vim

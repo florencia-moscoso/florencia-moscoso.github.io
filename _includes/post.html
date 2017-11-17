@@ -1,0 +1,20 @@
+<div class="content">
+  <h1>{{ include.post.title }}</h1>
+
+  <p class="details">
+    {% if include.post.autores %}
+      {{ include.post.autores }}
+    {% endif %}
+    {% if include.post.fecha_publicacion %}
+      - {{ include.post.fecha_publicacion }}
+    {% endif %}
+  </p>
+
+  {{ content }}
+
+  <section class="more-articles">
+    {% if include.post.link %}
+      <a class="primaryLinkButton" href="{{ include.post.link }}" title="Leer publicación" target="_blank">Leer publicación</a>
+    {% endif %}
+  </section>
+</div>

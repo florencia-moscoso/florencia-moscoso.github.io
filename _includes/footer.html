@@ -1,0 +1,26 @@
+<footer class="footer">
+	<div class="footer-inner" style='text-align:center;'>
+
+		<p>Sitio web creado por <a href="https://nicanor.github.io/about-me">{{ site.author }}</a>.</p>
+
+    <p>
+      <a href="{{ '/feed.xml' | prepend: site.url }}">Feed</a>
+
+      {% if site.linkedin_username %}
+        - <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">LinkedIn</a>
+      {% endif %}
+
+      {% if site.twitter_username %}
+        - <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">Twitter</a>
+      {% endif %}
+
+      {% if site.research_gate_username %}
+        - <a href="https://www.researchgate.net/profile/{{ site.research_gate_username }}" title="Research Gate">researchgate</a>
+      {% endif %}
+
+      {% if site.academia_edu_username %}
+        - <a href="http://unlp.academia.edu/{{ site.academia_edu_username }}" title="Academia.edu">academia.edu</a>
+      {% endif %}
+    </p>
+	</div>
+</footer>
