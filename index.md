@@ -12,22 +12,21 @@ id: home
   </div>
 </div>
 
-
 <div class="articles">
-	<div class="articles-inner">
-		<h2>Mis publicaciones</h2>
-		<ul>
+  <div class="articles-inner">
+    <h2>Mis publicaciones</h2>
+    <ul>
       {% for article in site.categories.publicaciones %}
-				<li>
-					<a href="{{ article.url }}"> {{ article.title }}</a>
+        <li>
+          <a href="{{ article.url }}"> {{ article.title }}</a>
           {% if article.fecha_publicacion %}
             - <small>{{ article.fecha_publicacion }}</small>
           {% endif %}
           {% if article.autores %}
             - <small>{{ article.autores }}</small>
           {% endif %}
-				</li>
-			{% endfor %}
-		</ul>
-	</div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
