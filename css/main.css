@@ -493,6 +493,15 @@ a.navigation-isActive {
 	font-family: 'PT serif';
 }
 
+.articles li {
+  line-height: 1.4em;
+  padding-top: 1.5em;
+}
+
+.articles li a {
+  text-decoration-color: #444;
+}
+
 @media(min-width: 37.5em) {
 	.articles ol,
   .articles ul {
