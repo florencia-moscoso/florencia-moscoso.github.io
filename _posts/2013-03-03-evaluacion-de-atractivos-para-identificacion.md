@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evaluación de atractivos para la identificación de nuevos productos turísticos. Caso de estudio: región Capital de la provincia de Buenos Aires"
+title:  "Evaluación de atractivos para la identificación de nuevos productos turísticos. Caso de estudio: Región Capital de la provincia de Buenos Aires"
 category: publicaciones
 autores: "Alfredo Conti, Gabriel Comparato, María Julia Cassani, Uriel Charne, Florencia Viviana Moscoso, Ana Clara Rucci, Virginia Sahores Avalis"
 fecha_publicacion: "2013"

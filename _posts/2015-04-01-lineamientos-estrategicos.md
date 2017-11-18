@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lineamientos Estratégicos para la creación de Nuevas Experiencias Turísticas en la región Capital de la provincia de Buenos Aires"
+title:  "Lineamientos estratégicos para la creación de nuevas experiencias turísticas en la Región Capital de la provincia de Buenos Aires"
 category: publicaciones
 autores: "Uriel Charne, Florencia Moscoso"
 fecha_publicacion: "2015"

@@ -171,7 +171,7 @@ a:focus {
 	text-align: center;
 }
 
-@media(min-width: 21.25em) {
+@media(min-width: 37.5em) {
 	.logo {
 		float: left;
 		font-size: 0.94em;
@@ -193,7 +193,7 @@ a:focus {
 	margin-top: 10px;
 }
 
-@media(min-width: 21.25em) {
+@media(min-width: 37.5em) {
 	.navigation {
 		float: right;
 		margin-top: 0;
