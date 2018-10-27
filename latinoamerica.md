@@ -6,7 +6,7 @@ id: mapa
 
 <div class="component">
   <div class="map">
-    {% include maps/lowres_south_america.svg %}
+    {% include maps/latinoamerica.svg %}
   </div>
   <div class="info">
     <h1>Latinoamerica</h1>
@@ -158,7 +158,7 @@ svg {
 #venezuela,
 #guyana-francesa,
 #paraguay,
-.amarillo {fill: #efa94a;}
+.amarillo {fill: #F9B108;}
 
 
 #martinica:hover,
@@ -168,7 +168,7 @@ svg {
 #venezuela:hover,
 #guyana-francesa:hover,
 #paraguay:hover,
-.amarillo:hover {fill: #efa94a88;}
+.amarillo:hover {fill: #c28905;}
 
 #haiti,
 #santa-lucia,
@@ -178,7 +178,7 @@ svg {
 #suriname,
 #bolivia,
 #uruguay,
-.celeste {fill: #92d7ef;}
+.celeste {fill: #35A5E6;}
 
 #haiti:hover,
 #santa-lucia:hover,
@@ -188,7 +188,7 @@ svg {
 #suriname:hover,
 #bolivia:hover,
 #uruguay:hover,
-.celeste:hover {fill: #92d7ef88;}
+.celeste:hover {fill: #1881bf;}
 
 #trinidad,
 #dominica,
@@ -198,7 +198,7 @@ svg {
 #colombia,
 #guyana,
 #argentina,
-.verde {fill: #a2eae0;}
+.verde {fill: #12c998;}
 
 #trinidad:hover,
 #dominica:hover,
@@ -208,7 +208,7 @@ svg {
 #colombia:hover,
 #guyana:hover,
 #argentina:hover,
-.verde:hover {fill: #a2eae088;}
+.verde:hover {fill: #0fa980;}
 
 #san-vicente-y-las-granadinas,
 #mexico,
@@ -220,7 +220,7 @@ svg {
 #chile,
 #brasil,
 #belice,
-.rosa {fill: #f9acbb;}
+.rosa {fill: #E86080;}
 
 #san-vicente-y-las-granadinas:hover,
 #mexico:hover,
@@ -232,7 +232,7 @@ svg {
 #chile:hover,
 #brasil:hover,
 #belice:hover,
-.rosa:hover {fill: #f9acbb88;}
+.rosa:hover {fill: #e2365e;}
 
 
 path {
