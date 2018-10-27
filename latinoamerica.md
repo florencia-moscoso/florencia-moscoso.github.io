@@ -168,6 +168,7 @@ svg {
 #venezuela:hover,
 #guyana-francesa:hover,
 #paraguay:hover,
+#belice,
 .amarillo:hover {fill: #c28905;}
 
 #haiti,
@@ -219,7 +220,6 @@ svg {
 #ecuador,
 #chile,
 #brasil,
-#belice,
 .rosa {fill: #E86080;}
 
 #san-vicente-y-las-granadinas:hover,
