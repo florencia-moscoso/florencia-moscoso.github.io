@@ -8,7 +8,7 @@ id: mapa
   <div class="map">
     {% include maps/latinoamerica.svg %}
   </div>
-  <div class="info">
+  <div class="info info-a">
     <h1>Latinoamerica</h1>
     Calle 13
     <br />
@@ -60,6 +60,12 @@ Tú no puedes comprar mis dolores <br />
 
 <br />
 
+  </div>
+</div>
+
+<div class="component">
+  <div class="info info-b">
+
 Tengo los lagos, tengo los ríos <br />
 Tengo mis dientes pa` cuando me sonrío <br />
 La nieve que maquilla mis montañas <br />
@@ -79,6 +85,17 @@ El viento que peina mi cabello <br />
 Soy todos los santos que cuelgan de mi cuello <br />
 El jugo de mi lucha no es artificial <br />
 Porque el abono de mi tierra es natural <br />
+  </div>
+    <div class="map">
+      {% include maps/latinoamerica.svg %}
+    </div>
+</div>
+
+<div class="component">
+  <div class="map">
+    {% include maps/latinoamerica.svg %}
+  </div>
+  <div class="info info-c">
 
 <br />
 
@@ -121,8 +138,8 @@ Yo canto porque se escucha (vamos caminando) <br />
 Aquí estamos de pie <br />
 Que viva la América <br />
 No puedes comprar mi vida <br />
-
   </div>
+
 </div>
 
 <style>
@@ -132,23 +149,37 @@ No puedes comprar mi vida <br />
   justify-content: flex-start;
 }
 
-.info,
 .map{
-  padding: 3rem;
+  padding: 2rem;
+  width: 50%;
+}
+
+.info {
+  padding: 2rem;
   width: 50%;
 }
 
 
 .info{
   text-align: center;
-  background-color: #fafafa;
-  color: #333;
+  background-color: #F9B108;
+  color: #3F3129;
   line-height: 1.6em;
-  font-size: 0.8em;
 }
 
+.info-a {
+  background-color: #F9B108;
+}
+
+.info-b {
+  background-color: #35A5E6;
+}
+
+.info-c {
+  background-color: #12c998;
+}
 svg {
-  fill: #92d7ef;
+  fill: #35A5E6;
 }
 
 #martinica,
