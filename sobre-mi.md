@@ -30,8 +30,10 @@ Organizadora, expositora y oyente en numerosos eventos académicos de carácter 
 
 Adscripta graduada de la cátedra de Geografía Turística Argentina y Latinoamericana de la FCE-UNLP.
 
-Con experiencia de trabajo en la Subsecretaría de Calidad Turística
-del Ministerio de Turismo de la Nación y en diversos proyectos de consultoría.
+Con experiencia de trabajo en
+la Subsecretaría de Calidad Turística del Ministerio de Turismo de la Nación,
+la Subsecretaría de Turismo de la provincia de Buenos Aires
+y en diversos proyectos de consultoría.
 
 ### Buscame en:
 
