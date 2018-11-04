@@ -40,6 +40,7 @@ y en diversos proyectos de consultoría.
 * [{{ site.twitter_username | prepend: "twitter.com/" }}]({{ site.twitter_username | prepend: "https://twitter.com/" }})
 * [researchgate]({{ site.research_gate_username | prepend: "https://www.researchgate.net/profile/" }})
 * [academia.edu]({{ site.academia_edu_username | prepend: "http://unlp.academia.edu/" }})
+* [orcid.org]({{ site.orcid_id | prepend: "https://orcid.org/" }})
 
 ### Escribime por:
 * [{{ site.email }}]({{ site.email | prepend: "mailto:" }})
