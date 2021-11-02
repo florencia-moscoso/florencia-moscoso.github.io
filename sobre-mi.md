@@ -28,7 +28,9 @@ Autora y copartícipe en multiples publicaciones.
 
 Organizadora, expositora y oyente en numerosos eventos académicos de carácter nacional e internacional.
 
-Adscripta graduada de la cátedra de Geografía Turística Argentina y Latinoamericana de la FCE-UNLP.
+Ayudante diplomada de la cátedra de Geografía Turística Argentina y Latinoamericana de la FCE-UNLP.
+
+Profesora Adjunta de Geografía de América y Argentina y Técnicas de Investigación Aplicadas al Turismo de la UADE.
 
 Con experiencia de trabajo en
 la Subsecretaría de Calidad Turística del Ministerio de Turismo de la Nación,
