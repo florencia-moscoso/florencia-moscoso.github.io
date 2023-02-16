@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Geografía turística argentina : aportes y reflexiones hacia la construcción de territorios turísticos sostenibles"
+title:  "Geografía turística argentina: aportes y reflexiones hacia la construcción de territorios turísticos sostenibles"
 category: publicaciones
 autores: "Fabricio Gliemmo, Florencia Viviana Moscoso"
 fecha_publicacion: "2019"
